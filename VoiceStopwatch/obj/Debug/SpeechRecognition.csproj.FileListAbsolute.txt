@@ -1,0 +1,14 @@
+c:\users\krikor\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe.config
+c:\users\krikor\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe
+c:\users\krikor\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.pdb
+c:\users\krikor\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csprojResolveAssemblyReference.cache
+c:\users\krikor\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\MainWindow.g.cs
+c:\users\krikor\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\App.g.cs
+c:\users\krikor\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition_MarkupCompile.cache
+c:\users\krikor\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition_MarkupCompile.lref
+c:\users\krikor\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\MainWindow.baml
+c:\users\krikor\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.g.resources
+c:\users\krikor\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.Properties.Resources.resources
+c:\users\krikor\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.GenerateResource.Cache
+c:\users\krikor\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.exe
+c:\users\krikor\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.pdb
